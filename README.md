@@ -5,7 +5,9 @@ Id бота - @viilyk_knowledge_bot
 Бот принимает файлы в форматах PDF, DOCX, TXT и MD и возвращает пользователю суммаризацию документа и набор ключевых слов. Информация о каждой операции сохраняется в Google Sheets.
 
 Для разработки бота использовался n8n.
-[__workflow (json)__](.vk_internship_bot_workflow.json)
+
+[__workflow (json)__](vk_internship_bot_workflow.json)
+
 Ссылка на таблицу - https://docs.google.com/spreadsheets/d/1K3eGfBHNwwXk644BOCyqLDlKXi4Vj4cNoCKRb51IJk4/edit?gid=0#gid=0
 
 ### Особенности:
