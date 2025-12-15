@@ -9,6 +9,7 @@ Id бота - @viilyk_knowledge_bot
 [__workflow (json)__](vk_internship_bot_workflow.json)
 
 Ссылка на таблицу - https://docs.google.com/spreadsheets/d/1K3eGfBHNwwXk644BOCyqLDlKXi4Vj4cNoCKRb51IJk4/edit?gid=0#gid=0
+Демонстрацию работы и тестовые файлы можно найти здесь - https://drive.google.com/drive/folders/1WZw5fmLLWv9FdDUsPLjCps6nL3MM6RXr?usp=drive_link
 
 ### Особенности:
 -OCR подключён, но используется только для PDF-файлов, в которых нет машиночитаемого текста. Действуют лимиты на размер (до 1 MB) и страницы (не более 3). Для OCR доступен только русский язык.
