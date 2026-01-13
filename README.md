@@ -1,6 +1,6 @@
 # vk_internship_test_bot
 
-Id бота - @viilyk_knowledge_bot
+Id бота - @viilyk_knowledge_bot (больше НЕ АКТИВЕН)
 
 Бот принимает файлы в форматах PDF, DOCX, TXT и MD и возвращает пользователю суммаризацию документа и набор ключевых слов. Информация о каждой операции сохраняется в Google Sheets.
 
